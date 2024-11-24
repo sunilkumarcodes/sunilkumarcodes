@@ -2,6 +2,7 @@
 
 
 - 🔭 I’m currently working on Data Science Domain
+- 🔭 Studying in NIT Surat
 - 🌱 I’m currently learning Machine Learning
 - 💬 Ask me about Python,Jupyter,PowerBi
 - 📫 How to reach me: Via linkedin profile provided in my Bio.
